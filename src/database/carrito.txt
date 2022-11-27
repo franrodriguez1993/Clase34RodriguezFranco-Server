@@ -1,0 +1,54 @@
+[
+  {
+    "products": [
+      {
+        "name": "Lapiz grande",
+        "description": "Lapiz color rojo de tamaño grande",
+        "code": "117211",
+        "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+        "price": 3500,
+        "stock": 40,
+        "id": 1,
+        "timestamp": "Thu Sep 01 2022"
+      }
+    ],
+    "id": 1,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "products": [
+      {
+        "name": "Lapiz mediano",
+        "description": "Lapiz color rojo de tamaño grande",
+        "code": "117211",
+        "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+        "price": 3500,
+        "stock": 40,
+        "id": 3,
+        "timestamp": "Thu Sep 01 2022"
+      },
+      {
+        "name": "Reloj chico",
+        "description": "Reloj chico de bolsillo",
+        "code": "122221",
+        "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/clock-stopwatch-timer-time-512.png",
+        "price": 1900,
+        "stock": 40,
+        "id": 4,
+        "timestamp": "Thu Sep 01 2022"
+      }
+    ],
+    "id": 2,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "products": [],
+    "id": 3,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "products": [],
+    "id": 4,
+    "timestamp": "Thu Sep 22 2022"
+  }
+]

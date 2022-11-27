@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lapiz grande",
+    "description": "Lapiz color rojo de tamaño grande",
+    "code": "117211",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "price": 3500,
+    "stock": 40,
+    "id": 1,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "name": "Lapiz chico",
+    "description": "Lapiz color rojo de tamaño grande",
+    "code": "117211",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "price": 1000,
+    "stock": 21,
+    "id": 2,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "name": "Lapiz de superman",
+    "description": "Lapiz color rojo de tamaño grande",
+    "code": "117211",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/pencil-pen-stationery-school-256.png",
+    "price": 1200,
+    "stock": 10,
+    "id": 3,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "name": "Reloj chico",
+    "description": "Reloj chico de bolsillo",
+    "code": "122221",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/clock-stopwatch-timer-time-512.png",
+    "price": 1900,
+    "stock": 40,
+    "id": 4,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "name": "Mochila grande",
+    "description": "Ideal para la escuela",
+    "code": "133221",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/bag-pack-container-school-512.png",
+    "price": 5000,
+    "stock": 40,
+    "id": 5,
+    "timestamp": "Thu Sep 01 2022"
+  },
+  {
+    "name": "Mochila chica",
+    "description": "Ideal para la escuela",
+    "code": "133228",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/bag-pack-container-school-512.png",
+    "price": 4000,
+    "stock": 40,
+    "id": 6,
+    "timestamp": "Thu Sep 22 2022"
+  },
+  {
+    "name": "Mochila chica",
+    "description": "Ideal para la escuela",
+    "code": "133228",
+    "image": "https://cdn3.iconfinder.com/data/icons/education-209/64/bag-pack-container-school-512.png",
+    "price": 4000,
+    "stock": 40,
+    "id": 7,
+    "timestamp": "Thu Sep 22 2022"
+  }
+]
