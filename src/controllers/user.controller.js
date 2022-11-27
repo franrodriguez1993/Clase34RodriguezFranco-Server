@@ -51,9 +51,7 @@ const loginUser = async (req, res, next) => {
       else {
         req.login(user, (err) => {
           if (err) throw err;
-          return res
-            .header("Access-Control-Allow-Credentials", "true")
-            .json({ status: 200, msg: "LOGIN_SUCCESSFULLY" });
+          return res.json({ status: 200, msg: "LOGIN_SUCCESSFULLY" });
         });
       }
     })(req, res, next);
