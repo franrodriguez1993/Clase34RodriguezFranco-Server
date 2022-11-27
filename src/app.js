@@ -51,8 +51,8 @@ app.use(
     resave: true,
     saveUninitialized: false,
     cookie: {
-      path: "/",
-      domain: ".https://codertprodriguezweb.onrender.com",
+      sameSite: "none",
+      secure: true,
       maxAge: 1000 * 60 * 24, // 24 hours
     },
   })
@@ -92,10 +92,6 @@ if (process.env.STORAGE === "mongo") {
 }
 
 app.use(express.json());
-app.use(function (req, res, next) {
-  res.header("Access-Control-Allow-Credentials", true);
-  next();
-});
 app.use(express.static("public"));
 app.use("/images", express.static("images"));
 app.use(express.urlencoded({ extended: true }));
