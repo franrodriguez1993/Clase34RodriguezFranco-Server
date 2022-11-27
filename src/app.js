@@ -16,7 +16,7 @@ import userRouter from "./routes/user.routes.js";
 import dbConnect from "./utils/connectMongo.js";
 
 //~~~~~~~ CONFIGURACIÓN CORS ~~~~~~~~~~~~~~~~~~
-const whiteList = ["http://localhost:3000"];
+const whiteList = ["https://codertprodriguezweb.onrender.com"];
 const corsOptions = {
   credentials: true,
   origin: function (origin, callback) {
