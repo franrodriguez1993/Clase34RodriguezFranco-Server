@@ -50,6 +50,11 @@ app.use(
     secret: process.env.SECRET_SESSION,
     resave: true,
     saveUninitialized: false,
+    cookie: {
+      path: "/",
+      domain: ".https://codertprodriguezweb.onrender.com",
+      maxAge: 1000 * 60 * 24, // 24 hours
+    },
   })
 );
 app.use(passport.initialize());
